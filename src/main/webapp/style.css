@@ -1,0 +1,22 @@
+*{
+    font-family: 'Quicksand', sans-serif;
+}
+.carousel{
+    height: 200px;
+} 
+.carousel-inner img{
+    width: 100%;
+    height: 500px;
+} 
+#titulo-servicios{
+    font-family: 'Acme', sans-serif;
+    
+    
+}
+.card-s:hover{
+    width: 350px;
+} 
+footer{
+    bottom: 0;
+    width: 100%;
+}
